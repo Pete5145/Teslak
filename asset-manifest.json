@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Teslak/static/css/main.1672c179.css",
+    "main.js": "/Teslak/static/js/main.d4169bda.js",
+    "static/js/787.860837ff.chunk.js": "/Teslak/static/js/787.860837ff.chunk.js",
+    "index.html": "/Teslak/index.html",
+    "main.1672c179.css.map": "/Teslak/static/css/main.1672c179.css.map",
+    "main.d4169bda.js.map": "/Teslak/static/js/main.d4169bda.js.map",
+    "787.860837ff.chunk.js.map": "/Teslak/static/js/787.860837ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1672c179.css",
+    "static/js/main.d4169bda.js"
+  ]
+}
